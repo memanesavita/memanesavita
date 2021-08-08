@@ -10,3 +10,10 @@
 #         j=j+1
 #     print()
 #     i=i+1
+
+
+
+# i=1
+# while i <=10:
+#     print(i*10,end=" ")
+#     i=i+1

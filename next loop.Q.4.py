@@ -58,7 +58,7 @@ while n<j:
     while k<5:
         print(" ",end=" ")
         k=k+1
-    p=1n=int(input("enter the number")
+    p=1=int(input("enter the number")
 j=1
 while n<j:
     k=1
@@ -73,10 +73,10 @@ while n<j:
     while p<=5:
         print(" ",end"*")
         q=q+1
-i=1
-j=4
-while i<=5:
-    print("",*,j+i,"*",j*"")
-    i=i+1
-    j=j-1    
+# i=1
+# j=4
+# while i<=5:
+#     print("",*,j+i,"*",j*"")
+#     i=i+1
+#     j=j-1    
 
